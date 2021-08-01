@@ -11,6 +11,7 @@
 
 📫 How to reach me: 
 - [Linkedln ](https://www.linkedin.com/in/mihricankizilyer/)
+- [Kaggle](https://www.kaggle.com/mihricankizilyer) 
 - [Hacker Rank](https://www.hackerrank.com/mihricankizilyer?hr_r=1) 
  
 🪁 Fun fact: I'm a poetry addict. 
