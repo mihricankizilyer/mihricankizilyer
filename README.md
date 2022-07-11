@@ -1,6 +1,6 @@
 ### Hello, I'm Mihrican 👋
 
-I am a senior  student at Gazi University department of Industrial Engineering. To gain more experience in the field of data science, I continue my studies on the following subjects:
+I'm Data Scientist. To gain more experience in the field of data science, I continue my studies on the following subjects:
  
 🚀 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib), 
 
