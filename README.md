@@ -1,6 +1,6 @@
 ### Hello, I'm Mihrican 👋
 
-I'm Data Scientist. To gain more experience in the field of data science, I continue my studies on the following subjects:
+To gain more experience in the field of data science, I continue my studies on the following subjects:
  
 🚀 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib), 
 
