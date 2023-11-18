@@ -2,7 +2,7 @@
 
 To gain more experience in the field of artificial intelligence, I continue my studies on the following subjects:
  
-🚀 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib), 
+🚀 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib, NLTK, tensorflow, torch), 
 
 🌕 Large Language Models (Mistral, Lamma)
 
